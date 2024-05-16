@@ -1,0 +1,18 @@
+.add-todo-btn{
+  border: 1px solid black;
+  text-align: center;
+  margin: 1em;
+  width: 2.3em;
+  height: 2.3em;
+}
+.addtodo{
+    height:2em;
+    width: 20em;
+}
+.addtodo-sec{
+    display: flex;
+    align-items: center;
+    height: 2em;
+    justify-content: center;
+    
+}
